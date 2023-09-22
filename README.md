@@ -5,3 +5,7 @@
 - [코딩 테스트 스터디](https://github.com/lala9663/CodingReview/tree/main)
 - [블로그](https://lala9663.tistory.com/)
 - [이력서]()
+
+
+
+### 이제는 옵시디언에서 ~~~
